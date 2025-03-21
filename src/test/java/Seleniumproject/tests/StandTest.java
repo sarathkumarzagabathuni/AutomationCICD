@@ -20,6 +20,7 @@ import pageObject.LandingPage;
 public class StandTest {
 
 	public static void main(String[] args) throws InterruptedException {
+                 //new comments are added
 
 		String productName = "ADIDAS ORIGINAL";
 
